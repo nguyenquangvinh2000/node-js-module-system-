@@ -1,6 +1,7 @@
 console.log('example');
 
 var Mouse = require('./mouse')
+var Cat = require('./cat')
 
 function Cat(){
 	this.stomach = [];
